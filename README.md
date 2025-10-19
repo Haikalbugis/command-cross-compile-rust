@@ -1,8 +1,10 @@
 # 🦀 Rust Cross Build Cheatsheet
 ---
+
 ```bash
 # 📌 Cek arsitektur
 uname -m
+```bash
 # contoh output: aarch64 (Raspberry Pi / Termux Android)
 
 # 📦 Install cross (kalau belum)
