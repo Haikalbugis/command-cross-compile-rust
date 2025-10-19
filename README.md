@@ -18,5 +18,5 @@ rustup target add x86_64-unknown-linux-gnu
 
 # 🏗️ Cross build ke x86_64 Linux aarch64 (Raspberry Pi / Termux Android)
 ```bash
-cross build --target x86_64-unknown-linux-gnu --release
+cross build --target aarch64-unknown-linux-gnu --release
 ```
