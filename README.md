@@ -1,7 +1,7 @@
 # 🦀 Rust Cross Build Cheatsheet
 ---
 
-## 📌 Cek arsitektur
+# 📌 Cek arsitektur
 ```bash
 uname -m
 ```
