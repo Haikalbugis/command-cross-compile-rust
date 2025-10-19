@@ -1,5 +1,5 @@
 # 🦀 Rust Cross Build Cheatsheet
-
+---
 ```bash
 # 📌 Cek arsitektur
 uname -m
